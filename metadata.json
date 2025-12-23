@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 智能店面价格管理系统",
+  "description": "一个专为店主设计的优美且实用的价格查询与管理工具，支持 AI 识别图片导入数据、利润分析及快速检索。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
